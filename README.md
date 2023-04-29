@@ -6,8 +6,8 @@
  ![Banner](/README/BANNER.png)
 ## <span style="color:#FBB1C9; font-family: 'Sacramento', cursive;">Introduction</SPAN>
 
-![NodeJS](https://img.shields.io/badge/node.js-23FDD8E4?style=for-the-badge&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23FBB1C9.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-FDD8E4?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23FBB1C9.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23F98BAE.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%23FDD8E4.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/react-%23FBB1C9.svg?style=for-the-badge&logo=react&logoColor=white)
@@ -42,7 +42,7 @@ Check out my GitHub profile for some of my projects and contributions.
 - <span style="color:#e3b8d2">Github:</SPAN> https://github.com/Honey8131
 
 ## <span style="color:#FBB1C9; font-family: 'Sacramento', cursive;">Contact Information</SPAN>
-![LinkedIn](https://img.shields.io/badge/linkedin=%23F98BAE.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%23FDD8E4.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 Let's chat! You can reach me at:
 
 - <span style="color:#e3b8d2">Email:</SPAN> honey8131.inqueries@gmail.com
