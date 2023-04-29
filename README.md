@@ -29,6 +29,7 @@ Hello and welcome to my GitHub profile! I'm Jodie Ruiz, a skilled fullstack web 
 - UI/UX Design
 
 <img alt="Honey's Github Stats" src="https://github-readme-stats-honey8131.vercel.app/api?username=honey8131&show_icons=true&hide_border=true" />
+
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/honey8131/Honey8131?color=pink&style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/honey8131/Honey8131?color=%23fdd8E4&style=for-the-badge)
 ![npm collaborators](https://img.shields.io/npm/collaborators/prettier?color=%23F98BAE&style=for-the-badge)
