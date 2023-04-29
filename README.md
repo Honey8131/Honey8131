@@ -43,6 +43,8 @@ Check out my GitHub profile for some of my projects and contributions.
 
 ## <span style="color:#FBB1C9; font-family: 'Sacramento', cursive;">Contact Information</SPAN>
 ![LinkedIn](https://img.shields.io/badge/linkedin-%23FDD8E4.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%23FBB1C9.svg?style=for-the-badge&logo=discord&logoColor=white)
+
 Let's chat! You can reach me at:
 
 - <span style="color:#e3b8d2">Email:</SPAN> honey8131.inqueries@gmail.com
