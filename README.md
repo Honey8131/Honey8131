@@ -16,7 +16,7 @@ Hello and welcome to my GitHub profile! I'm Jodie Ruiz, a skilled fullstack web 
 - Git/GitHub
 - UI/UX Design
 
-[![Jodie's GitHub stats](https://github-readme-stats-honey8131.vercel.app/)]
+<img align="left" alt="Honey's Github Stats" src="https://github-readme-stats-honey8131.vercel.app/"/>
 
 ## <span style="color:#FBB1C9; font-family: 'Sacramento', cursive;">Accomplishments</SPAN>
 - Completed University of Arizona Full Stack Bootcamp.
