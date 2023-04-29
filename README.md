@@ -6,7 +6,7 @@
  ![Banner](/README/BANNER.png)
 ## <span style="color:#FBB1C9; font-family: 'Sacramento', cursive;">Introduction</SPAN>
 
-Hello and welcome to my GitHub profile! I'm Jodie Ruiz, a skilled developer with experience in HTML/CSS, JavaScript, React, Node.js, Git/GitHub, and UI/UX design. As an aspiring developer, I'm always seeking new challenges and opportunities to learn and grow. So grab a cup of tea or coffee and please feel free to browse my repositories to see some of my projects and contributions. ❤️☕
+Hello and welcome to my GitHub profile! I'm Jodie Ruiz, a skilled fullstack web developer with experience in HTML/CSS, JavaScript, React, Node.js, Git/GitHub, and UI/UX design. As an aspiring developer, I'm always seeking new challenges and opportunities to learn and grow. So grab a cup of tea or coffee and please feel free to browse my repositories to see some of my projects and contributions. ❤️☕
 
 ## <span style="color:#FBB1C9; font-family: 'Sacramento', cursive;">Skills</SPAN>
 - HTML/CSS
@@ -15,6 +15,8 @@ Hello and welcome to my GitHub profile! I'm Jodie Ruiz, a skilled developer with
 - Node.js
 - Git/GitHub
 - UI/UX Design
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ## <span style="color:#FBB1C9; font-family: 'Sacramento', cursive;">Accomplishments</SPAN>
 - Completed University of Arizona Full Stack Bootcamp.
