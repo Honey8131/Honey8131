@@ -6,8 +6,8 @@
  ![Banner](/README/BANNER.png)
 ## <span style="color:#FBB1C9; font-family: 'Sacramento', cursive;">Introduction</SPAN>
 
-![Node.js](https://img.shields.io/badge/node.js%20-23FDD8E4.svg?style=for-the-badge&logo=node.js&logoColor=white")
-![Javascript](https://img.shields.io/badge/javascript%20-23FBB1C9.svg?style=for-the-badge&logo=javascript&logoColor=white")
+![Node.js](https://img.shields.io/badge/node.js%23FDD8E4.svg?style=for-the-badge&logo=node.js&logoColor=white")
+![Javascript](https://img.shields.io/badge/javascript%23FBB1C9.svg?style=for-the-badge&logo=javascript&logoColor=white")
 ![HTML5](https://img.shields.io/badge/html5-%23F98BAE.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%23FDD8E4.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/react-%23FBB1C9.svg?style=for-the-badge&logo=react&logoColor=white)
